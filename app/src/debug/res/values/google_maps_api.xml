@@ -1,0 +1,24 @@
+<resources>
+    <!--
+    TODO: Before you run your application, you need a Google Maps API key.
+
+    To get one, follow this link, follow the directions and press "Create" at the end:
+
+    https://console.developers.google.com/flows/enableapi?apiid=maps_android_backend&keyType=CLIENT_SIDE_ANDROID&r=7F:A7:FA:27:2F:E4:AF:53:C3:23:10:C6:AF:37:B3:A2:0E:F6:CB:DA%3Bcom.viamatica.tiendaaplication.Fragments
+
+    You can also add your credentials to an existing key, using these values:
+
+    Package name:
+    com.viamatica.tiendaaplication.Fragments
+
+    SHA-1 certificate fingerprint:
+    7F:A7:FA:27:2F:E4:AF:53:C3:23:10:C6:AF:37:B3:A2:0E:F6:CB:DA
+
+    Alternatively, follow the directions here:
+    https://developers.google.com/maps/documentation/android/start#get-key
+
+    Once you have your key (it starts with "AIza"), replace the "google_maps_key"
+    string in this file.
+    -->
+    <string name="google_maps_key" templateMergeStrategy="preserve" translatable="false">AIzaSyDNTz5WrzLdaRRzejPn81lcJb0py_t8esg</string>
+</resources>
